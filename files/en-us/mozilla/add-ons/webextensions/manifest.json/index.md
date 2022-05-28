@@ -1,9 +1,4 @@
----
-title: manifest.json
-slug: Mozilla/Add-ons/WebExtensions/manifest.json
-tags:
-  - Add-ons
-  - Extensions
+-
   - Overview
   - WebExtensions
   - manifest.json
